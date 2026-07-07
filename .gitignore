@@ -1,0 +1,7 @@
+node_modules
+dist
+*.pdf
+extracted_full.txt
+extract_sample.txt
+__pycache__
+*.pyc
